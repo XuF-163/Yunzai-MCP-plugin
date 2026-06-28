@@ -86,7 +86,7 @@
 > 修改功能权限请自行在 `config/config.yaml` 中配置
 ## 快速上手
 ````
-git clone https://github.com/XuF163/Yunzai-MCP-plugin ./plugins/Yunzai-MCP-plugin
+git clone https://github.com/XuF-163/Yunzai-MCP-plugin ./plugins/Yunzai-MCP-plugin
 ````  
 gitee源  
 ```
