@@ -1,5 +1,7 @@
 # Yunzai-MCP-Plugin
 
+> **20260628 应社区要求重传**
+
 实现LLM的插件自动化测试能力，从沙盒调试中解放出来  
 适用于[trss yunzai (V3)](https://gitee.com/TimeRainStarSky/Yunzai) ，项目时开发使用版本*f793f5a*(2025-01-03)
 > [!WARNING]  
